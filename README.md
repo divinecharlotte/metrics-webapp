@@ -12,7 +12,7 @@ Jest
 
 [Live demp]()
 ### Live Demo:
-[Netlify live demo](https://62e005f89d4a640008bcdd3b--lively-sopapillas-5a726b.netlify.app/details/bitcoin)
+[Netlify live demo](https://62e005f89d4a640008bcdd3b--lively-sopapillas-5a726b.netlify.app/)
 ### Getting Started
 To get a local copy open and running follow these simple example steps.
 
