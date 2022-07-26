@@ -10,9 +10,9 @@ Jest
 
 ### Loom Video Demo:
 
-(Loom video)[]
+[Live demp]()
 ### Live Demo:
-(Netlify live demo)[https://62e005f89d4a640008bcdd3b--lively-sopapillas-5a726b.netlify.app/details/bitcoin]
+[Netlify live demo](https://62e005f89d4a640008bcdd3b--lively-sopapillas-5a726b.netlify.app/details/bitcoin)
 ### Getting Started
 To get a local copy open and running follow these simple example steps.
 
@@ -32,7 +32,8 @@ Launches the test runner in the interactive watch mode by run command `npm test`
 
 - GitHub: [@divinecharlotte](https://github.com/divinecharlotte)
 - Twitter: [@divine_maina](https://twitter.com/divine_maina)
-🤝 Contributing
+
+### 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ### Show your support
