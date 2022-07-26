@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import './Coin.css';
 
 const Coin = ({
   name, symbol, id, price, handleDetails,
