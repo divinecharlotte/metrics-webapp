@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const FETCH_COINS = 'FETCH_COINS';
+const FETCH_COINS = 'metrics-webapp/CoinList/FETCH_COINS';
 const currencies = [];
 
 export const FetchCoinsSuccess = (data) => ({ type: FETCH_COINS, payload: data });
