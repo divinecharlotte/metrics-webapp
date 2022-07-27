@@ -8,10 +8,6 @@ CSS
 https://api.coincap.io/v2/assets
 Jest
 
-### Loom Video Demo:
-
-[Loom video]()
-
 ### Live Demo:
 [Netlify live demo](https://62e005f89d4a640008bcdd3b--lively-sopapillas-5a726b.netlify.app/)
 ### Getting Started
