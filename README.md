@@ -9,7 +9,7 @@ https://api.coincap.io/v2/assets
 Jest
 
 ### Live Demo:
-[Netlify live demo](https://62e005f89d4a640008bcdd3b--lively-sopapillas-5a726b.netlify.app/)
+[Netlify live demo](https://62f13dad01129e06f6a87b43--glowing-faun-3220e8.netlify.app/)
 ### Getting Started
 To get a local copy open and running follow these simple example steps.
 
