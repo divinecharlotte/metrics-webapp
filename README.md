@@ -10,7 +10,8 @@ Redux
 
 CSS
 
-https://api.coincap.io/v2/assets
+[API](https://api.coincap.io/v2/assets)
+
 
 Jest
 
